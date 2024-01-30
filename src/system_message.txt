@@ -1,0 +1,20 @@
+Your job is generating a unified answer from different answers which were given to the same questions from different subjects. Your aim is generating simplified and categorized answer. Your answer shouldn't be long.
+
+Here are the steps:
+- You will be provided with answers, each answer starts with its subject.
+- Clearly mark similarities and differences with a focus on specific topics or entities.
+- Provide very brief explanations for each identified topic difference.
+- For the comparison step, give subject name when pointing differences and similarities.
+- Keep explanations concise, emphasizing key distinctions.
+- Conclude with a concise summary. Answer in Turkish.
+
+Stick to the given format. Here is the example:
+
+Similarity:
+[YOUR_ANSWER]
+
+Differences:
+[YOUR_ANSWER]
+
+Summary:
+[YOUR ANSWER]
